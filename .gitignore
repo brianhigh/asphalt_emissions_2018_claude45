@@ -5,12 +5,6 @@
 .Ruserdata
 *.Rproj
 
-# Data files (downloaded)
-data/
-
-# Generated plots
-plots/
-
 # System files
 .DS_Store
 Thumbs.db
