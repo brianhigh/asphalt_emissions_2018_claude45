@@ -39,7 +39,7 @@ Created comprehensive project documentation:
 
 ## Generated Choropleth Map
 
-![US States Asphalt Emissions Map](C:\Users\high\.gemini\antigravity\brain\286799ae-b462-4d7e-babe-0f6f45bc1ccb\us_states_asphalt_emissions.png)
+![US States Asphalt Emissions Map](plots/us_states_asphalt_emissions.png)
 
 The map shows:
 - **51 states** with valid emissions data
