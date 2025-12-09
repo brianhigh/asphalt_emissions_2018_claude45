@@ -8,7 +8,7 @@ Successfully created an R script that generates a choropleth map of US states sh
 
 ### 1. R Script Implementation
 
-Created [`create_choropleth_map.R`](file:///C:/Users/high/Documents/asphalt_emissions_2018_claude45/create_choropleth_map.R) with the following features:
+Created [create_choropleth_map.R](create_choropleth_map.R) with the following features:
 
 - **Package Management**: Uses `pacman::p_load()` to automatically install and load required packages (readxl, ggplot2, dplyr, maps, httr, stringr)
 - **Directory Creation**: Automatically creates `data/` and `plots/` directories if they don't exist
@@ -27,8 +27,8 @@ Created [`create_choropleth_map.R`](file:///C:/Users/high/Documents/asphalt_emis
 
 Created comprehensive project documentation:
 
-- **[README.md](file:///C:/Users/high/Documents/asphalt_emissions_2018_claude45/README.md)**: Project overview with embedded map image and links to all project files
-- **[plan.md](file:///C:/Users/high/Documents/asphalt_emissions_2018_claude45/plan.md)**: Implementation plan detailing the technical approach
+- **[README.md](README.md)**: Project overview with embedded map image and links to all project files
+- **[plan.md](plan.md)**: Implementation plan detailing the technical approach
 
 ### 3. Data Source
 
