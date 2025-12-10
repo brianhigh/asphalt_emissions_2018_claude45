@@ -1,4 +1,4 @@
-Write an R script which creates a US states choropleth map with ggplot using data from [data.gov(https://catalog.data.gov/dataset/data-anthropogenic-secondary-organic-aerosol-and-ozone-production-from-asphalt-related-emi), specifically the file AP_2018_State_County_Inventory.xlsx, and more specifically, the "Output - State" sheet and the columns State and "Total kg/person". 
+Write an R script which creates a US states choropleth map with ggplot using data from [data.gov](https://catalog.data.gov/dataset/data-anthropogenic-secondary-organic-aerosol-and-ozone-production-from-asphalt-related-emi), specifically the file AP_2018_State_County_Inventory.xlsx, and more specifically, the "Output - State" sheet and the columns State and "Total kg/person". 
 
 Use the same color scale as displayed in the Total kg/person column, with reds indicating high values, yellows/oranges indicating medium values, and greens indicating low values. State borders should be grey. 
 
